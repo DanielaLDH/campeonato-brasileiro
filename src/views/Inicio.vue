@@ -4,7 +4,7 @@
     <v-img 
     class="inicio-imagem mb-4"
     src="https://media.istockphoto.com/photos/feet-of-soccer-player-tread-on-soccer-ball-for-kickoff-in-the-stadium-picture-id992892836" />
-    <p>Sed accumsan gravida lorem et condimentum. Vivamus sit amet lectus feugiat, porta justo ut, elementum ex. Integer a vestibulum arcu. In vulputate consequat massa eget scelerisque. Pellentesque justo diam, tempor eu consequat sed, placerat a lectus. Ut porttitor gravida placerat. Proin id porta nisi. Duis finibus sit amet ante quis semper. Aliquam imperdiet interdum arcu, et eleifend urna. </p>
+    <p>Sed accumsan gravida lorem et condimentum. In vulputate consequat massa eget scelerisque. Pellentesque justo diam, tempor eu consequat sed, placerat a lectus. Ut porttitor gravida placerat. Proin id porta nisi. Duis finibus sit amet ante quis semper. Aliquam imperdiet interdum arcu, et eleifend urna. </p>
     </v-container>
 </template>
 
